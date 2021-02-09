@@ -4,10 +4,8 @@
 
 Simple web app created using plain vanilla JS
 
-![GitHub Logo](/images/logo.png)
-![App](media/app_on_loading.png)
+![App](media/app_on_loading.png | max-width=75%)
 ![Random Fill](media/app_random_fill.png)
-![In Use](media/app_clip.mov)
 
 ### Hosted using Github Pages!
 
