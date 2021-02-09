@@ -4,7 +4,7 @@
 
 Simple web app created using plain vanilla JS
 
-![App](media/app_on_loading.png | width = 75%)
+![App](media/app_on_loading.png | width=75)
 ![Random Fill](media/app_random_fill.png)
 
 ### Hosted using Github Pages!
